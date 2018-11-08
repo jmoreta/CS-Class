@@ -1,0 +1,7 @@
+C:\Users\Diplomado Web Cs\source\repos\CSprojects\Personas\Personas\bin\Debug\Personas.exe.config
+C:\Users\Diplomado Web Cs\source\repos\CSprojects\Personas\Personas\bin\Debug\Personas.exe
+C:\Users\Diplomado Web Cs\source\repos\CSprojects\Personas\Personas\bin\Debug\Personas.pdb
+C:\Users\Diplomado Web Cs\source\repos\CSprojects\Personas\Personas\obj\Debug\Personas.csprojAssemblyReference.cache
+C:\Users\Diplomado Web Cs\source\repos\CSprojects\Personas\Personas\obj\Debug\Personas.csproj.CoreCompileInputs.cache
+C:\Users\Diplomado Web Cs\source\repos\CSprojects\Personas\Personas\obj\Debug\Personas.exe
+C:\Users\Diplomado Web Cs\source\repos\CSprojects\Personas\Personas\obj\Debug\Personas.pdb
